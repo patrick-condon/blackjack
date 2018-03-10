@@ -1,0 +1,9 @@
+---
+title: "Blackjack"
+type: "challenge"
+description: "Build a command-line card game using classes."
+tags: "oop"
+behaviors:
+  - ruby_and_rspec
+ignore:
+- "blackjack.md"
